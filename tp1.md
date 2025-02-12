@@ -8,8 +8,8 @@ Initiation au framework hadoop et manipulation de HDFS, utilisation de docker po
 ## Hadoop
 ### Présentation
 [Apache Hadoop](hadoop.apache.org) est un framework open-source pour stocker et traiter les données volumineuses sur un cluster. Il est utilisé par un grand nombre de contributeurs et utilisateurs. Il a une licence Apache 2.0.
-![Hadoop HDFS](img/tp1/hadoop.png.png)
-<img src="../img/tp1/hadoop.png" width="200">
+
+![Hadoop](img/tp1/hadoop.png)
 
 
 ### Hadoop et Docker
@@ -51,6 +51,7 @@ docker pull liliasfaxi/my-hadoop-spark:latest
     2.3. Vérifier que les trois contenaires tournent bien en lançant la commande ```docker ps```. Un résultat semblable au suivant devra s'afficher:
       
       <img src="../img/tp1/running.png">
+      ![Running](img/tp1/running.png)
 
 2. Entrer dans le contenaire master pour commencer à l'utiliser.
 
