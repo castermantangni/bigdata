@@ -1,4 +1,4 @@
-<center>![Hadoop HDFS](img/tp1/hadoop-hdfs.png)</center>
+![Hadoop HDFS](img/tp1/hadoop-hdfs.png)
 
 ## Objectifs
 Initiation au framework hadoop et manipulation de HDFS, utilisation de docker pour lancer un cluster hadoop de 3 noeuds.
