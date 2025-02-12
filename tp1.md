@@ -8,7 +8,7 @@ Initiation au framework hadoop et manipulation de HDFS, utilisation de docker po
 ## Hadoop
 ### Présentation
 [Apache Hadoop](hadoop.apache.org) est un framework open-source pour stocker et traiter les données volumineuses sur un cluster. Il est utilisé par un grand nombre de contributeurs et utilisateurs. Il a une licence Apache 2.0.
-
+![Hadoop HDFS](img/tp1/hadoop.png.png)
 <img src="../img/tp1/hadoop.png" width="200">
 
 
